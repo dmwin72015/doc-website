@@ -30,10 +30,6 @@ module.exports = {
         {
           to: '/login',
           label: "登录",
-          items:[{
-            to:  '/login/v1',
-            label: '登录v1'
-          }]
         },
         {
           type: 'localeDropdown',
